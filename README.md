@@ -72,9 +72,9 @@ Se deben aplicar clases abstractas e interfaces para mostrar herencia y polimorf
 <img width="666" height="732" alt="image" src="https://github.com/user-attachments/assets/8961a3b6-7bff-4a42-9adc-e084f6f0a8d1" />
 
 
-//Clase MaterialBiblioteca
+###Clase MaterialBiblioteca
 
-'''
+```java
 
 package Modulos;
 
@@ -128,12 +128,12 @@ public abstract class MaterialBiblioteca implements Prestable{
 
 }
 
-\'''
+\```
 
 
-//Clase Libro
+###Clase Libro
 
-'''
+```java
 
 package Modulos;
 
@@ -166,11 +166,11 @@ public class Libro extends MaterialBiblioteca{
 
 }
 
-\'''
+\```
 
-//Clase Biblioteca
+###Clase Biblioteca
 
-'''
+```java
 
 package Modulos;
 import java.util.ArrayList;
@@ -197,11 +197,11 @@ public class Biblioteca {
 
 }
 
-\'''
+\```
 
-//Interfaz Prestable
+###Interfaz Prestable
 
-'''
+```java
 
 package Modulos;
 
@@ -215,5 +215,5 @@ public interface Prestable{
 
 }
 
-\'''
+\```
 
