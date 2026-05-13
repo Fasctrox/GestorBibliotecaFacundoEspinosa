@@ -128,7 +128,7 @@ public abstract class MaterialBiblioteca implements Prestable{
 
 }
 
-'''
+\'''
 
 
 //Clase Libro
@@ -166,7 +166,7 @@ public class Libro extends MaterialBiblioteca{
 
 }
 
-'''
+\'''
 
 //Clase Biblioteca
 
@@ -197,7 +197,7 @@ public class Biblioteca {
 
 }
 
-'''
+\'''
 
 //Interfaz Prestable
 
@@ -215,5 +215,5 @@ public interface Prestable{
 
 }
 
-'''
+\'''
 
