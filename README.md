@@ -128,12 +128,9 @@ public abstract class MaterialBiblioteca implements Prestable{
 
 }
 
-\```
-
 
 //Clase Libro
 
-```java
 
 package Modulos;
 
@@ -166,11 +163,8 @@ public class Libro extends MaterialBiblioteca{
 
 }
 
-\```
 
 //Clase Biblioteca
-
-```java
 
 package Modulos;
 import java.util.ArrayList;
@@ -197,11 +191,9 @@ public class Biblioteca {
 
 }
 
-\```
 
 //Interfaz Prestable
 
-```java
 
 package Modulos;
 
@@ -210,10 +202,6 @@ public interface Prestable{
     void prestar();
 
     void devolver();
-
-    
-
 }
 
-\```
 
